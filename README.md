@@ -21,5 +21,3 @@
 3. Done! Your teleprompter is live at `https://yourusername.github.io/repo-name`.
 
 ---
-
-Would you like help setting up the GitHub repo or pushing your local files?
